@@ -1,0 +1,5 @@
+{
+    "require": {
+        "maneuver/bitbucket-wp-updater": "^0.0.3"
+    }
+}
